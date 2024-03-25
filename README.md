@@ -126,7 +126,8 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![tharun](https://github.com/Tharun-1000/slot/assets/135952958/5d8c6259-7032-4b2a-bf3b-46bf49fa628c)
+![png](https://github.com/Tharun-1000/slot/assets/135952958/76e0bb16-61f8-4fa8-bd1c-b4dc8ebce334)
+
 
 
 ## RESULT
