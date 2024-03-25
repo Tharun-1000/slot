@@ -36,7 +36,7 @@ Execute the program using runserver command.
 </center>
 <br>
      <table align="center" width="550" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-     <caption><b>Time Table</b></caption>
+     <caption><b>Time Table THARUN K 212222040172</b></caption>
 <tr align="center">
 	<th bgcolor="red">Day/Time</th>
 	<th bgcolor="red">Monday</th>
