@@ -28,58 +28,55 @@ Execute the program using runserver command.
 ```
 <html>
 <head>
-     <title>Slot Timetable</title>
+<title>Slot Timetable</title>
 </head>
 <body>
 <center>
 <img src="/static/logo.png" height="100" width"550">
 </center>
 <br>
-     <table align="center" width="550" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-     <caption><b>Time Table THARUN K 212222040172</b></caption>
+<table align="center" width="550" cellspacing="2" cellpadding="4" border="3" bgcolor="skyblue">
+<caption><b>Time Table -       THARUN K (212222040172)</b></caption>
 <tr align="center">
-	<th bgcolor="red">Day/Time</th>
-	<th bgcolor="red">Monday</th>
-	<th bgcolor="red">Tuesday</th>
-	<th bgcolor="red">Wednesday</th>
-	<th bgcolor="red">Thursday</th>
- 	<th bgcolor="red">Friday</th>
+<th bgcolor="red">Day/Time</th>
+<th bgcolor="red">Monday</th>
+<th bgcolor="red">Tuesday</th>
+<th bgcolor="red">Wednesday</th>
+<th bgcolor="red">Thursday</th>
+<th bgcolor="red">Friday</th>
 </tr>
 <tr align="center">
-	<th bgcolor="blue">8-10</th>
-	<td>Maths</td>
-	<td>BEEE</td>
-	<td>FWAD</td>
-	<td >Free Slot</td>
-    <td>BEEE</td>
+<th bgcolor="red">8-10</th>
+<td>ML</td>
+<td>DPSD</td>
+<td>FWAD</td>
+<td colspan="2">Free Slot</td>
 </tr>
 <tr align="center">
-	<th bgcolor="blue">10-12</th>
-	<td>FREE SLOT</td>
-	<td>FWAD</td>
-	<td>DBMS</td>
-    <td>COMPILER DESIGN</td>
-    <td>FREE SLOT</td>
-
+<th bgcolor="red">10-12</th>
+<td>Free slot</td>
+<td>FWAD</td>
+<td>ML</td>
+<td>Free Slot</td>
+<td>DPSD</td>
 </tr>
 <tr>
-	<th bgcolor="blue">12-1</th>
-	<td colspan="5" align="center">L U N C H</td>
+<th bgcolor="red">12-1</th>
+<td colspan="5" align="center">L U N C H</td>
 </tr>
 <tr align="center">
-	<th bgcolor="blue">1-3</th>
-	<td>FWAD</td>
-	<td>DBMS</td>
-	<td>C</td>
-    <td>MATHS</td>
-    <td>FREE SLOT</td>
-
+<th bgcolor="red">1-3</th>
+<td>FWAD</td>
+<td>CNS</td>
+<td>DBMS</td>
+<td>PQT</td>
+<td>PQT</td>
 </tr>
 <tr align="center">
-	<th bgcolor="blue">3-5</th>
-	<td colspan="3">FREE SLOT</td>
-	<td>FREE SLOT</td>
-    <td>FREE SLOT</td>
+<th bgcolor="red">3-5</th>
+<td colspan="3">Free slot</td>
+<td>DPSD</td>
+<td>Free slot</td>
 </tr>
 </table>
 </br>
@@ -91,8 +88,8 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td align="center">1.</td>
-<td align="center">19MA218</td>
-<td>MATHS</td>
+<td align="center">19AI410</td>
+<td>Introduction To Machine Learning</td>
 </tr>
 <tr>
 <td align="center">2.</td>
@@ -106,19 +103,19 @@ Execute the program using runserver command.
 </tr>
 <tr>
 <td align="center">4.</td>
-<td align="center">19EE305</td>
-<td>BASIC ELECTICAL,ELECTRONICS AND MEASURMENT ENGINEERING </td>
+<td align="center">19CS412</td>
+<td>Cryptography and Queuning Theory </td>
 </tr>
 <tr>
 <td align="center">5.</td>
-<td align="center">19CS409</td>
-<td>COMPILER DESIGND</td>
+<td align="center">19EC303</td>
+<td>Digital Principles and System Design</td>
 </tr>
 <tr>
-    <td align="center">6.</td>
-    <td align="center">19CS302</td>
-    <td>C PROGRAMMING </td>
-    </tr>
+<td align="center">6.</td>
+<td align="center">19MA218</td>
+<td>Probablity and Queuening Theory</td>
+</tr>
 </table>
 </body>
 </html>
@@ -126,7 +123,8 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![png](https://github.com/Tharun-1000/slot/assets/135952958/76e0bb16-61f8-4fa8-bd1c-b4dc8ebce334)
+![web exp 3](https://github.com/Tharun-1000/slot/assets/135952958/1529e5c6-3d3c-4d9f-853a-5af0e1cc32bf)
+
 
 
 
